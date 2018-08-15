@@ -5,8 +5,14 @@
 </h1>
 
 <p align="center">
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com)
+  <a href="http://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg"
+         alt="forthebadge">
+  </a>
+  <a href="http://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"
+         alt="forthebadge">
+  </a>
 </p>
 
 <p align="center">
